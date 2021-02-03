@@ -1,0 +1,45 @@
+.board{
+  border: 10px black solid;
+  width: 870px;
+}
+
+.btn{
+  height: 100px;
+  width: 100px;
+}
+
+.blackCell{
+  background-color: grey;
+}
+
+.letters{
+  border-top: 10px black solid;
+  font-size: 2em;
+  text-align: center;
+  width: 100px;
+}
+
+.numbers{
+  border-top: 8px black solid;
+  border-right: 8px black solid;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 25px;
+  width: 50px;
+}
+
+.piece{
+  width: 5em;
+  height: 5em;
+  align-items: center;
+}
+
+.whiteCell{
+  background-color: white;
+}
+
+#cross{
+  width: 50px;
+  border-top: 8px black solid;
+  border-right: 8px black solid;
+}
